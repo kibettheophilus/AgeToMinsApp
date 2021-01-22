@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AgeInMinutes</string>
+    <string name="app_name">Your Age In Minutes</string>
+    <string name="age">AGE</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="tvSelected"></string>
+    <string name="selected_date">Selected Date</string>
+    <string name="tvSelectedDateMinutes"></string>
+    <string name="selectedDateInMins">Age In Minutes</string>
 </resources>
